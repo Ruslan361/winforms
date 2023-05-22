@@ -1,0 +1,10 @@
+C:\Users\vanat\Desktop\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.Form1.resources
+C:\Users\vanat\Desktop\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+C:\Users\vanat\Desktop\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.AssemblyReference.cache
+D:\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.AssemblyReference.cache
+D:\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.Form1.resources
+D:\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.Form1.resources
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache

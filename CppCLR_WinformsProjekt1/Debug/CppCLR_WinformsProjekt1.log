@@ -1,0 +1,24 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(6,11): warning C4570: 'CppCLRWinformsProjekt::Rectangle': is not explicitly declared as abstract but has abstract functions
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(6,11): message : 'void CppCLRWinformsProjekt::Rectangle::show(System::Drawing::Graphics ^)': is abstract
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(22,15): message : see declaration of 'CppCLRWinformsProjekt::Rectangle::show'
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(103,7): warning C4490: 'override': incorrect use of override specifier; 'CppCLRWinformsProjekt::Coupling::show' does not match a base ref class method
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(103,7): message : 'new' or 'override' are only allowed when a matching base method from a ref class exists
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(122,7): warning C4490: 'override': incorrect use of override specifier; 'CppCLRWinformsProjekt::EngineLine::show' does not match a base ref class method
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(122,7): message : 'new' or 'override' are only allowed when a matching base method from a ref class exists
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(189,24): warning C4018: '<=': signed/unsigned mismatch
+  Form1.cpp
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(6,11): warning C4570: 'CppCLRWinformsProjekt::Rectangle': is not explicitly declared as abstract but has abstract functions
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(6,11): message : 'void CppCLRWinformsProjekt::Rectangle::show(System::Drawing::Graphics ^)': is abstract
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(22,15): message : see declaration of 'CppCLRWinformsProjekt::Rectangle::show'
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(103,7): warning C4490: 'override': incorrect use of override specifier; 'CppCLRWinformsProjekt::Coupling::show' does not match a base ref class method
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(103,7): message : 'new' or 'override' are only allowed when a matching base method from a ref class exists
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(122,7): warning C4490: 'override': incorrect use of override specifier; 'CppCLRWinformsProjekt::EngineLine::show' does not match a base ref class method
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(122,7): message : 'new' or 'override' are only allowed when a matching base method from a ref class exists
+C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Rectangle.h(189,24): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\Professional\Desktop\Новая папка (3)\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.exe
